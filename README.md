@@ -2,7 +2,7 @@
 ## Objective:
 Create a valid, properly formatted HTML5 data table, fully styled with CSS.
 
-# Process:
+## Process:
 1. Create a new github repository for your lab 5.
 2. Create an external style sheet and link it to an html file.
 3. Use css to style the page and table. I don't want it to look like the default browser styling on anything. Use your own css, don't use the defaults from a css framework like bootstrap. 
