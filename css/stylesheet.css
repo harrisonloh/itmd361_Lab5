@@ -5,6 +5,19 @@ header {
 	font-size: 20px;
 }
 
+table {
+  margin-top: 10px;
+}
+
+table, th, td {
+  border: 1px solid;
+  text-align: center;
+  vertical-align: center;
+}
+th {
+  min-width: 100px;
+}
+
 #page-wrapper {
 	width: 960px;
 	margin: 0 auto;
